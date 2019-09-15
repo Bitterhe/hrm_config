@@ -2,7 +2,7 @@ server:
   port: 9008
 spring:
   application:
-    name: hrm-course
+    name: hrm-user
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/hrm_user
